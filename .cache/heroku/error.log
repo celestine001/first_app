@@ -1,0 +1,4 @@
+2016/05/31 04:08:14 heroku-cli/5.2.14-a56a9ae (linux-amd64) go1.6.2 /home/ubuntu/.local/share/heroku/cli/bin/heroku cmd: version
+2016/05/31 04:08:14 triggering background update
+2016/05/31 04:08:14 heroku-cli/5.2.14-a56a9ae (linux-amd64) go1.6.2 /home/ubuntu/.local/share/heroku/cli/bin/heroku cmd: update
+2016/05/31 04:08:14 heroku-cli/5.2.14-a56a9ae (linux-amd64) go1.6.2 /home/ubuntu/.local/share/heroku/cli/bin/heroku cmd: commands

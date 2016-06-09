@@ -1,0 +1,16 @@
+[user]
+	name = Celestine Dew
+    email = celydew@gmail.com
+	emal = celydew@gmail.com
+[core]
+	editor = subl -w
+    whitespace = off
+    excludesfile = ~/.gitignore
+[advice]
+    statusuoption = false
+[color]
+    ui = true
+[push]
+    default = current
+[alias]
+	co = checkout
